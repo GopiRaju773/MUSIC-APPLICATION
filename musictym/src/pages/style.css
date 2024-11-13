@@ -1,0 +1,11 @@
+#moviepage a.active {
+    opacity: 100;
+}
+
+#a:hover #b{
+    display: flex !important;
+}
+
+#b{
+    transition: all 1s linear 1s;
+}
